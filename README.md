@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @bishopAL.
-- 👀 I’m interested in bionic robotics, motion control, and neural control.
-- 🌱 I’m currently learning motor control, linux-based CAN communication.
+- 👀 I’m a doctoral candidate, interested in bionic robotics, motion control, and neural control.
 - 📫 Reach me via mail: bishop-222@nuaa.edu.cn.
 
 <!---
