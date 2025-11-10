@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Bingcheng Wang.
-- 👀 I’m a doctoral candidate, interested in bionic robotics, motion control, and neural control.
-- 📫 Reach me via mail: bishop-222@nuaa.edu.cn; bingcheng.wang@uzh.ch.
+- 👀 Currently working on humaniod robots.
+- 📫 Reach me via mail: bingcheng.214@gmail.com.
 
 <!---
 bishopAL/bishopAL is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
